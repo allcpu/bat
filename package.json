@@ -1,5 +1,5 @@
 {
-  "name": "ascended-cat",
+  "name": "cat",
   "version": "1.0.0",
   "description": "Block-based three.js",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SheepTester/ascended-cat.git"
+    "url": "git+https://github.com/allcpu/cat.git"
   },
   "keywords": [
     "blocks",
@@ -17,8 +17,8 @@
   "author": "SheepTester",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SheepTester/ascended-cat/issues"
+    "url": "https://github.com/allcpu/cat/issues"
   },
-  "homepage": "https://github.com/SheepTester/ascended-cat#readme",
+  "homepage": "https://github.com/allcpu/cat#readme",
   "devDependencies": {}
 }
